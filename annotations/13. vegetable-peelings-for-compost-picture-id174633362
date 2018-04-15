@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>13. vegetable-peelings-for-compost-picture-id174633362.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/13. vegetable-peelings-for-compost-picture-id174633362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>86</ymin>
+			<xmax>573</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

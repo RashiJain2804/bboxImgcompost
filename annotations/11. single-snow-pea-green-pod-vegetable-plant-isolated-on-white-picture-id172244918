@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>11. single-snow-pea-green-pod-vegetable-plant-isolated-on-white-picture-id172244918.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/11. single-snow-pea-green-pod-vegetable-plant-isolated-on-white-picture-id172244918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>197</ymin>
+			<xmax>979</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

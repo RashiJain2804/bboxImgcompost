@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>11. sleep-tea-mint-tea-bag-500-x-500.png</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/11. sleep-tea-mint-tea-bag-500-x-500.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>64</ymin>
+			<xmax>280</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

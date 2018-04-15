@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. food_waste1.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. food_waste1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>77</ymin>
+			<xmax>474</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

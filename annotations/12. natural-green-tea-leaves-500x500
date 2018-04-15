@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. natural-green-tea-leaves-500x500.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. natural-green-tea-leaves-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>26</ymin>
+			<xmax>481</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

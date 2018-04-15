@@ -1,0 +1,50 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>13. green_leaves_6.png</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/13. green_leaves_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>1</ymin>
+			<xmax>338</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>26</ymin>
+			<xmax>109</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>187</ymin>
+			<xmax>400</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

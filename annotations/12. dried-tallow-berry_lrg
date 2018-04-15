@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. dried-tallow-berry_lrg.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. dried-tallow-berry_lrg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>559</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>7</ymin>
+			<xmax>554</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

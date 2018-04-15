@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. rotten-apple.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. rotten-apple.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>693</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>94</ymin>
+			<xmax>551</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

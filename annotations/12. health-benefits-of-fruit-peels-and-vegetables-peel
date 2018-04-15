@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. health-benefits-of-fruit-peels-and-vegetables-peel.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. health-benefits-of-fruit-peels-and-vegetables-peel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>947</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>30</ymin>
+			<xmax>923</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

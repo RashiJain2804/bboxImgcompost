@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>14. carrion_beetles_on_decaying_animal.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/14. carrion_beetles_on_decaying_animal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>111</ymin>
+			<xmax>239</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

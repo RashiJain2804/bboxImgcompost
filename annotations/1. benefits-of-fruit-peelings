@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>1. benefits-of-fruit-peelings.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/1. benefits-of-fruit-peelings.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>24</ymin>
+			<xmax>413</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

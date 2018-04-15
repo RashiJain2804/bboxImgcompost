@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>10. rotten-vegetables-gn80wf.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/10. rotten-vegetables-gn80wf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>31</ymin>
+			<xmax>1148</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

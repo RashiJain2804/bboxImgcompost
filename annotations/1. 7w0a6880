@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>1. 7w0a6880.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/1. 7w0a6880.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2835</width>
+		<height>1890</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>13</ymin>
+			<xmax>2835</xmax>
+			<ymax>1859</ymax>
+		</bndbox>
+	</object>
+</annotation>

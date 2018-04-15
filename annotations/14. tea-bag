@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>14. tea-bag.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/14. tea-bag.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>23</ymin>
+			<xmax>453</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

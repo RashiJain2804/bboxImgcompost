@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>11. rotten-vegetables-set-aside-for-composting-dcw2n6.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/11. rotten-vegetables-set-aside-for-composting-dcw2n6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>203</ymin>
+			<xmax>1246</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>10. single_nectarine_186060.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/10. single_nectarine_186060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>3</ymin>
+			<xmax>394</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>15. 314-single-onion-vegetable.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/15. 314-single-onion-vegetable.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1631</xmin>
+			<ymin>606</ymin>
+			<xmax>4608</xmax>
+			<ymax>3515</ymax>
+		</bndbox>
+	</object>
+</annotation>

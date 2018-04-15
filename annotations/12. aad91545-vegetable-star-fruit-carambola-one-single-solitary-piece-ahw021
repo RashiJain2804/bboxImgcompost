@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. aad91545-vegetable-star-fruit-carambola-one-single-solitary-piece-ahw021.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. aad91545-vegetable-star-fruit-carambola-one-single-solitary-piece-ahw021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>145</ymin>
+			<xmax>970</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>

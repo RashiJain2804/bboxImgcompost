@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>14. mango-1218147_960_720.png</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/14. mango-1218147_960_720.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>915</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>2</ymin>
+			<xmax>910</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

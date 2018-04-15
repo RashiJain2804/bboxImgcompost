@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>10. videoblocks-fresh-green-tea-leaves-under-bright-sun-light-against-blue-sky-grow-on-hills-beautiful-tropical-nature-of-asian-organic-plantation_sol-kgmog_thumbnail-full01.png</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/10. videoblocks-fresh-green-tea-leaves-under-bright-sun-light-against-blue-sky-grow-on-hills-beautiful-tropical-nature-of-asian-organic-plantation_sol-kgmog_thumbnail-full01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>16</ymin>
+			<xmax>1636</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

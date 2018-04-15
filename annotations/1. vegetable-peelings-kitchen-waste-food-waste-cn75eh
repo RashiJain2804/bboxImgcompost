@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>1. vegetable-peelings-kitchen-waste-food-waste-cn75eh.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/1. vegetable-peelings-kitchen-waste-food-waste-cn75eh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1065</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>170</ymin>
+			<xmax>1143</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

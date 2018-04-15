@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>12. xprill2.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/12. xprill2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>33</ymin>
+			<xmax>249</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

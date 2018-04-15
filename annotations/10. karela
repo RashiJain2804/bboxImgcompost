@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compost</folder>
+	<filename>10. karela.jpg</filename>
+	<path>/home/jains/Desktop/garbage/train/compost/10. karela.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>5</ymin>
+			<xmax>616</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
